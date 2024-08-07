@@ -20,9 +20,18 @@ body {
     margin-bottom: 20px;
 }
 
+.players-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    width: 100%;
+}
+
 .player-info {
     display: none;
     margin-top: 20px;
+    width: 45%;
+    text-align: center;
 }
 
 .player-info img {
