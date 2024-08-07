@@ -2,32 +2,32 @@ const leagues = {
     premierLeague: [
         "ManchesterUnited", "Liverpool", "Chelsea", "Arsenal", "ManchesterCity", 
         "TottenhamHotspur", "Leicester City", "WestHamUnited", "Everton", "AstonVilla", 
-        "Leeds United", "Wolverhampton Wanderers", "Crystal Palace", "Newcastle United", 
-        "Brighton & Hove Albion", "Burnley", "Southampton", "Norwich City", "Watford", "Brentford"
+        "LeedsUnited", "WolverhamptonWanderers", "CrystalPalace", "NewcastleUnited", 
+        "BrightonHoveAlbion", "Burnley", "Southampton", "NorwichCity", "Watford", "Brentford"
     ],
     laLiga: [
-        "FC Barcelona", "Real Madrid", "Atletico Madrid", "Sevilla FC", "Real Sociedad", 
-        "Real Betis Balompié", "Villarreal CF", "Athletic Club", "Valencia CF", "RCD Espanyol", 
-        "Celta Vigo", "Osasuna", "Granada CF", "Getafe CF", "Elche CF", 
-        "Levante UD", "Mallorca", "Rayo Vallecano", "Deportivo Alavés", "Cádiz CF"
+        "FCBarcelona", "Real Madrid", "AtleticoMadrid", "SevillaFC", "RealSociedad", 
+        "RealBetisBalompié", "VillarrealCF", "Athletic Club", "ValenciaCF", "RCDEspanyol", 
+        "CeltaVigo", "Osasuna", "GranadaCF", "GetafeCF", "ElcheCF", 
+        "Levante UD", "Mallorca", "RayoVallecano", "DeportivoAlavés", "CádizCF", "AthleticBilbao"
     ],
     bundesliga: [
-        "Bayern Munich", "Borussia Dortmund", "RB Leipzig", "Bayer Leverkusen", 
-        "Borussia Mönchengladbach", "Eintracht Frankfurt", "Wolfsburg", "Union Berlin", 
-        "Hoffenheim", "SC Freiburg", "Stuttgart", "Mainz", "Augsburg", 
-        "Hertha Berlin", "Arminia Bielefeld", "Bochum", "Greuther Fürth"
+        "BayernMunich", "BorussiaDortmund", "RBLeipzig", "BayerLeverkusen", 
+        "BorussiaMönchengladbach", "EintrachtFrankfurt", "Wolfsburg", "UnionBerlin", 
+        "Hoffenheim", "SCFreiburg", "Stuttgart", "Mainz", "Augsburg", 
+        "HerthaBerlin", "Arminia Bielefeld", "Bochum", "Greuther Fürth", "FCSchalke04"
     ],
     serieA: [
-        "Juventus", "Inter Milan", "AC Milan", "Napoli", "Roma", 
-        "SS Lazio", "Atalanta", "Fiorentina", "Sassuolo", "Sampdoria", 
+        "Juventus", "InterMilan", "ACMilan", "Napoli", "Roma", 
+        "SSLazio", "Atalanta", "Fiorentina", "Sassuolo", "Sampdoria", 
         "Torino", "Udinese", "Bologna", "Spezia", "Verona", 
         "Cagliari", "Genoa", "Salernitana", "Empoli", "Venezia"
     ],
     ligue1: [
-        "Paris Saint-Germain", "Lille", "Lyon", "Marseille", "Monaco", 
+        "ParisSaintGermain", "Lille", "Lyon", "Marseille", "Monaco", 
         "Rennes", "Nice", "Montpellier", "Lens", "Saint-Etienne", 
         "Angers", "Bordeaux", "Nantes", "Strasbourg", "Reims", 
-        "Metz", "Brest", "Lorient", "Troyes", "Clermont Foot"
+        "Metz", "Brest", "Lorient", "Troyes", "ClermontFoot"
     ]
 };
 
