@@ -5,18 +5,18 @@ This module provides functionality for handling user data.
 
 ## Installation
 ```bash
-npm install @org/5QgiHdLd
+npm install @org/dMnQkgYx
 ```
 
 ## Usage
 ```javascript
-import {{ process9dsr }} from '@org/5QgiHdLd';
+import {{ processEKkw }} from '@org/dMnQkgYx';
 
-const result = await process9dsr(params);
+const result = await processEKkw(params);
 ```
 
 ## API Reference
-### process9dsr(params)
+### processEKkw(params)
 - `params` (Object): Configuration options
 - Returns: Promise<Object>
 
